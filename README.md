@@ -1,6 +1,4 @@
-# Customer-Management-System-Flutter
-A cross-platform Customer Management System built with Flutter, allowing businesses to store, update, and manage customer information with an intuitive and user-friendly mobile UI.
- # Customer Management System
+# Customer Management System
 
 A professional Flutter application for managing customer complaints and interactions across multiple e-commerce platforms.
 
