@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Backend API",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-Command",
+				"cd F:\\backend_cms; node server.js"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
